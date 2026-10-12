@@ -1,0 +1,7 @@
+Nombre : jose
+Apellidos : morales
+Edad : 99
+Telefono : 9613206607
+Estatura : 1.80
+Genero : Masculino
+
